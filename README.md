@@ -21,3 +21,7 @@ This project involved provisioning a virtualized **Ubuntu 24.04** environment to
 > **Note:** This server is active during scheduled demonstration windows. 
 > [Check it out here: http://18.189.44.1]
 
+## 📜 Credits & Attributions
+* **Base Game Engine:** This project utilizes an open-source version of the classic 'Dino' runner.
+* **Objective:** The game is used as a functional "vessel" to demonstrate expertise in **Cloud Infrastructure (IaaS)**, **Linux Administration**, and **Nginx Web Server** configuration.
+
