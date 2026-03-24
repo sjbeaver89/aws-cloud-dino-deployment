@@ -25,3 +25,7 @@ This project involved provisioning a virtualized **Ubuntu 24.04** environment to
 * **Base Game Engine:** This project utilizes an open-source version of the classic 'Dino' runner.
 * **Objective:** The game is used as a functional "vessel" to demonstrate expertise in **Cloud Infrastructure (IaaS)**, **Linux Administration**, and **Nginx Web Server** configuration.
 
+
+
+https://github.com/user-attachments/assets/916ff11e-798c-46af-95df-55c51a415cc2
+
